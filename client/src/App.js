@@ -1,19 +1,24 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css';
 import Home from './components/Home';
-import BlogsPage from "./components/BlogsPage";
-import BlogDetails from "./components/BlogDetails";
 function App() {
+  const { isCheckingAuth, CheckAuth } = useAuthStore();
+
+  useEffect(() => {
+    CheckAuth();
+  }, [CheckAuth]);
+
+  if (isCheckingAuth) {
+    return <div className="flex justify-center items-center min-h-screen">Checking authentication...</div>; //add loading animation
+  }
+
   return (
-  <Router>
+    <Router>
     <div className="app">
 
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/blog/" element={<BlogsPage />}/>
-        <Route path = "/blog/:id" element={<BlogDetails/>}/>
-
       </Routes>
       
     </div>
