@@ -8,7 +8,6 @@ import TeamPage from './components/Teampage';
 import Activities from "./components/Activities";
 import Navbar from "./components/Navbar";
 import Loader from "./components/Loader";
-
 import SignupPage from './components/SignupPage';
 import LoginPage from './components/LoginPage';
 import EmailVerificationPage from "./components/EmailVerificationPage";
@@ -18,6 +17,7 @@ import { Toaster } from 'react-hot-toast';
 import { useAuthStore } from './store/authStore';
 import { RedirectAuthenticatedUser, RequireUnverifiedUser } from './utils/routeProtection';
 import ProfilePage from "./components/ProfilePage"
+
 
 function App() {
   const { isCheckingAuth, CheckAuth } = useAuthStore();

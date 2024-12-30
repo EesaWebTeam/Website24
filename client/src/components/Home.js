@@ -18,7 +18,6 @@ if(isLoading)
     {/* <div className="h-screen bg-black flex justify-center items-center ">
         <Loader/>
     </div> */}
-
     <div className="w-full">
     <Bg />
         </div>
