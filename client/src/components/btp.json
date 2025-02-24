@@ -1,0 +1,527 @@
+[
+    {
+      "projectNo": "P1",
+      "title": "Multi-Robot Path Finding in a Constrained Environment for Large Agents",
+      "numStudents": 2,
+      "supervisor": "Dr. Sharad Kumar Singh",
+      "coSupervisor": null,
+      "students": [
+        { "name": "VISHWAS SHANKAR KORI", "rollNo": "210002084", "specialization": "PEPS & CONTROL" }
+      ]
+    },
+    {
+      "projectNo": "P2",
+      "title": "Dynamic Agent Allocation Problem in Multi-Agent Target-Defense Differential Games",
+      "numStudents": 3,
+      "supervisor": "Dr. Sharad Kumar Singh",
+      "coSupervisor": null,
+      "students": [
+        { "name": "HARSH SONI", "rollNo": "210003035", "specialization": "PEPS & CONTROL" },
+        { "name": "SHUBHNEET TIWARI", "rollNo": "210002073", "specialization": "PEPS & CONTROL" },
+        { "name": "ARUNADITYA DASH P", "rollNo": "210005010", "specialization": "PEPS & CONTROL" }
+      ]
+    },
+    {
+      "projectNo": "P3",
+      "title": "Multiple Pursuer Single Superior Evader Differential Games Amidst Known Obstacles",
+      "numStudents": 1,
+      "supervisor": "Dr. Sharad Kumar Singh",
+      "coSupervisor": null,
+      "students": [
+        { "name": "PUSHKAL MADHAWACHARYA", "rollNo": "210002059", "specialization": "PEPS & CONTROL" }
+      ]
+    },
+    {
+      "projectNo": "P4",
+      "title": "Power Electronics Converter Modeling in High-Frequency Applications using Black Box Approach",
+      "numStudents": 1,
+      "supervisor": "Dr. Lokesh Kumar Dewangan",
+      "coSupervisor": null,
+      "students": [
+        { "name": "JASH FALADU", "rollNo": "210002040", "specialization": "PEPS & CONTROL" }
+      ]
+    },
+    {
+      "projectNo": "P5",
+      "title": "Hardware Development of a Solar AC Inverter ",
+      "numStudents": 1,
+      "supervisor": "Prof. Amod C Umarikar",
+      "coSupervisor": null,
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },
+    {
+      "projectNo": "P6",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },
+    {
+      "projectNo": "P7",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P8",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P9",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P10",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P11",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P12",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P13",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P14",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P15",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P16",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },
+    {
+      "projectNo": "P17",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P18",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P19",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P20",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P21",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P22",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P23",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P24",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P25",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P26",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P27",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P28",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P29",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P30",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P31",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P32",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P33",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P34",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P35",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P36",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P37",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P38",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P39",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P40",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P41",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P42",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P43",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P44",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P45",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P46",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P47",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P48",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P49",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },
+    {
+      "projectNo": "P50",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P51",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P52",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P53",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P54",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P55",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P56",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    },{
+      "projectNo": "P57",
+      "title": "Hardware Development of a Solar AC Inverter",
+      "numStudents": 1,
+      "supervisor": "Dr. Vijay A S",
+      "coSupervisor": "Prof. Amod C Umarikar",
+      "students": [
+        { "name": "SAATVIK THOURWAL", "rollNo": "210002066", "specialization": "PEPS & CONTROL" }
+      ]
+    }
+  ]
+  

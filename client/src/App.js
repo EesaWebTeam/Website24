@@ -9,7 +9,7 @@ import Activities from "./components/Activities";
 import Navbar from "./components/Navbar";
 import Loader from './components/status_pages/Loader'
 import NotFound from "./components/status_pages/NotFound";
-
+import Study from "./components/Study.js"; 
 
 import SignupPage from './components/SignupPage';
 import LoginPage from './components/LoginPage';
@@ -24,7 +24,7 @@ import AdminPanel from "./components/AdminPanel";
 import WriteBlog from "./components/WriteBlog";
 import MyBlog from "./components/MyBlogs";
 import EditBlog from "./components/EditBlog";
-import ProjectTable from "/Users/aniket/coding/eesa/Website24/client/src/components/Project.js";
+import ProjectTable from "./components/Project.js";
 import Gallery from "./components/Gallery";
 function App() {
   const { isCheckingAuth, CheckAuth } = useAuthStore();
@@ -49,7 +49,8 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
-           <Route path="*" element={<NotFound/>} />
+          <Route path="*" element={<NotFound/>} />
+          <Route path="/Study" element={<Study />} />
           <Route path="/team" element={<TeamPage />} />
           <Route path="/Activities" element={<Activities />} />
           <Route path="/Blogs" element={<Blogs />} />

@@ -79,6 +79,12 @@ const Navbar = () => {
               Notices
             </Link>
             <Link
+              to="/Study"
+              className={`text-2xl font-semibold px-0 py-2 relative transition-all duration-300 ${isActive('/Study') ? `${scrolled ? 'border-b-purple-600' : 'border-b-white'} border-b-2` : 'hover:border-b-2 hover:border-b-purple-600'}`}
+            >
+              Study Material
+            </Link>
+            <Link
               to="/Gallery"
               className={`text-2xl font-semibold px-0 py-2 relative transition-all duration-300 ${
                 isActive('/Gallery')
@@ -154,6 +160,13 @@ const Navbar = () => {
               onClick={() => setIsMenuOpen(false)}
             >
               Notices
+            </Link>
+            <Link
+              to="/Study"
+              className={`text-2xl font-semibold px-4 py-2 transition-all duration-300 ${isActive('/Study') ? 'border-b-2 border-b-purple-600' : 'hover:border-b-2 hover:border-b-purple-600'}`}
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Study Material
             </Link>
             <Link
               to="/contact"
