@@ -6,11 +6,17 @@ This platform showcases the vibrancy of the Electrical Engineering department â€
 ## ğŸŒ Technologies Used
 
 -> React.js
+
 -> Tailwind CSS
+
 -> Node.js
+
 -> Express.Js
+
 -> MongoDB
+
 -> Cloudinary
+
 -> Zustand
 
 
