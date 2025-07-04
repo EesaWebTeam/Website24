@@ -59,6 +59,8 @@ This project is developed as part of the effort to enhance communication and com
 
 ![image](https://github.com/user-attachments/assets/cc14b269-adc4-4eac-b085-777b3b698106)
 
+![image](https://github.com/user-attachments/assets/c7b91b67-8f95-4cd8-bf59-20c8e348027f)
+
 ![image](https://github.com/user-attachments/assets/ba97a4e5-4947-4662-a7e3-7904d72a3f0c)
 
 
