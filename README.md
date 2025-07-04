@@ -5,13 +5,14 @@ This platform showcases the vibrancy of the Electrical Engineering department �
 
 ## 🌐 Technologies Used
 
-React.js
+-> React.js
+-> Tailwind CSS
+-> Node.js
+-> Express.Js
+-> MongoDB
+-> Cloudinary
+-> Zustand
 
-Tailwind CSS
-
-Node.js
-
-MongoDB
 
 ## ✨ Features
 🏠 Modern Homepage:
@@ -33,7 +34,7 @@ The portal includes a secure login system that restricts access to only Electric
 The website is built with a mobile-first approach and adapts seamlessly across all screen sizes — from desktops and laptops to tablets and smartphones. Whether you're browsing from your hostel or during a commute, the experience remains smooth and accessible.
 
 ## 👨‍💻 Contributors
-* Naveen
+* Naveen SH
 * Tanushree Dewangan
 * Krish Pathak
 * Piyush Raj
